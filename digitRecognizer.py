@@ -1,3 +1,4 @@
+#https://www.kaggle.com/datasets/animatronbot/mnist-digit-recognizer for dataset
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
